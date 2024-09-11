@@ -20,6 +20,6 @@
 
 ---
 
-# Explore meus repositórios abaixo e descubra os projetos em que estou trabalhando! 🚀
+## Explore meus repositórios abaixo e descubra os projetos em que estou trabalhando! 🚀
 
-Aqui, você encontrará projetos desenvolvidos em **React Native**, além de mini aulas que crio para exercitar e compartilhar meu conhecimento. Fique à vontade para explorar e aprender comigo!
+Aqui, você encontrará projetos desenvolvidos em **React Native**, **HTML**, **CSS**, **JavaScript**, **Node.js**, **Nunjucks**, **Express** com middlewares, e projetos com estrutura **back-end** e **front-end**, além de mini aulas que crio para exercitar e compartilhar meu conhecimento. Fique à vontade para explorar e aprender comigo!
