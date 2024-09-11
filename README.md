@@ -1,4 +1,4 @@
-![Capa](https://i.pinimg.com/originals/55/e0/9b/55e09be9dccd8bb15075d4878632c4d4.gif)
+<img src="https://i0.wp.com/media.giphy.com/media/10sSrMDp9l3H2/giphy.gif?w=560&ssl=1" alt="Capa" style="width: 100%;">
 
 # Olá, eu sou o Massan! 👋
 
@@ -20,6 +20,6 @@
 
 ---
 
-## Explore meus repositórios abaixo e descubra os projetos em que estou trabalhando! 🚀
+# Explore meus repositórios abaixo e descubra os projetos em que estou trabalhando! 🚀
 
 Aqui, você encontrará projetos desenvolvidos em **React Native**, além de mini aulas que crio para exercitar e compartilhar meu conhecimento. Fique à vontade para explorar e aprender comigo!
