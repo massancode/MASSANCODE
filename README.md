@@ -11,7 +11,10 @@
 ### Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com) - Conecte-se comigo!
-- 📱  [Itch.io](https://github.com/massancode?tab=repositories) - Veja alguns dos meus aplicativos:
+- 📱  [GitHub](https://github.com/massancode?tab=repositories) - Veja alguns dos meus aplicativos:
+- [Todo](https://github.com/massancode/toDo-React-Native)
+- [IHere](https://github.com/massancode/Ihere)
+- [GamePlay](https://github.com/massancode/App_Gameplay)      
 
 - 🎮 [Itch.io](https://itch.io/) - Veja alguns dos meus jogos:
   - [The Secret of Necromancer](https://itch.io/jam/piauindie-game-jam-2022/rate/1781891)
