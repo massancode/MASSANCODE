@@ -11,7 +11,8 @@
 ### Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com) - Conecte-se comigo!
-- 📸 [Instagram](https://www.instagram.com/fernando.massan) - Siga-me no Instagram!
+- 📱  [Itch.io](https://github.com/massancode?tab=repositories) - Veja alguns dos meus aplicativos:
+
 - 🎮 [Itch.io](https://itch.io/) - Veja alguns dos meus jogos:
   - [The Secret of Necromancer](https://itch.io/jam/piauindie-game-jam-2022/rate/1781891)
   - [The Secret of the Joker](https://globalgamejam.org/games/2024/secret-joke-2)
