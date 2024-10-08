@@ -1,4 +1,3 @@
-<img src="https://i0.wp.com/media.giphy.com/media/10sSrMDp9l3H2/giphy.gif?w=560&ssl=1" alt="Capa" style="width: 100%;">
 
 # Olá, eu sou o Massan! 👋
 
