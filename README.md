@@ -14,7 +14,7 @@
 - 📱  [GitHub](https://github.com/massancode?tab=repositories)
 
 
-###- Veja alguns dos meus aplicativos:
+### Veja alguns dos meus aplicativos:
   - [Nearby](https://github.com/massancode/Nearby)
   - [Todo](https://github.com/massancode/toDo-React-Native)
   - [IHere](https://github.com/massancode/Ihere)
