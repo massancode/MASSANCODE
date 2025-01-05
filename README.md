@@ -11,9 +11,11 @@
 ### Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com) - Conecte-se comigo!
-- 📱  [GitHub](https://github.com/massancode?tab=repositories) - Veja alguns dos meus aplicativos:
+- 📱  [GitHub](https://github.com/massancode?tab=repositories)
 
-  -[Nearby](https://github.com/massancode/Nearby)
+
+###- Veja alguns dos meus aplicativos:
+  - [Nearby](https://github.com/massancode/Nearby)
   - [Todo](https://github.com/massancode/toDo-React-Native)
   - [IHere](https://github.com/massancode/Ihere)
   - [GamePlay](https://github.com/massancode/App_Gameplay)      
