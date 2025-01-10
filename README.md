@@ -4,7 +4,7 @@
 ### Sobre mim
 
 - 💻 Desenvolvedor full stack e especialista em **React Native** e **Node.js**.
-- 🛠️ Membro do estúdio de jogos independentes **Galaticos Studio**.
+- 🛠️ Ceo do estúdio de jogos independentes **2palitoStudio**.
 - 🎮📱 Apaixonado por desenvolvimento **mobile** e **games** em geral.
 - 🚀 Entusiasta de novas tecnologias e sempre aprendendo algo novo, atualmente focado em **TypeScript** para desenvolvimento mobile.
 
