@@ -20,7 +20,7 @@
   - [IHere](https://github.com/massancode/Ihere)
   - [GamePlay](https://github.com/massancode/App_Gameplay)
 
-### Veja alguns das minhas aplicações WEB:
+### Veja algumas das minhas aplicações WEB:
   - [Ports](https://github.com/massancode/ports)
   
 
