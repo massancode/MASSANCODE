@@ -3,9 +3,9 @@
 
 ### Sobre mim
 
-- 💻 Desenvolvedor full stack e especialista em **React Native** e **Node.js**.
+- 💻 Desenvolvedor full stack e especialista em **React Native**, **React** e **Node.js**.
 - 🛠️ Ceo do estúdio de jogos independentes **2palitoStudio**.
-- 🎮📱 Apaixonado por desenvolvimento **mobile** e **games** em geral.
+- 🎮📱 Apaixonado por desenvolvimento **Front-End**, **mobile** e **games** em geral.
 - 🚀 Entusiasta de novas tecnologias e sempre aprendendo algo novo, atualmente focado em **TypeScript** para desenvolvimento mobile.
 
 ### Como me encontrar
@@ -14,13 +14,17 @@
 - 📱  [GitHub](https://github.com/massancode?tab=repositories)
 
 
-### Veja alguns dos meus aplicativos:
+### Veja alguns dos meus aplicativos para SmartPhone:
   - [Nearby](https://github.com/massancode/Nearby)
   - [Todo](https://github.com/massancode/toDo-React-Native)
   - [IHere](https://github.com/massancode/Ihere)
-  - [GamePlay](https://github.com/massancode/App_Gameplay)      
+  - [GamePlay](https://github.com/massancode/App_Gameplay)
 
-- 🎮 [Itch.io](https://itch.io/) - Veja alguns dos meus jogos:
+### Veja alguns das minhas aplicações WEB:
+  - [Ports](https://github.com/massancode/ports)
+  
+
+- 🎮 [Itch.io] - Veja alguns dos meus jogos:
   - [The Secret of Necromancer](https://itch.io/jam/piauindie-game-jam-2022/rate/1781891)
   - [The Secret of the Joker](https://globalgamejam.org/games/2024/secret-joke-2)
   - [The Secret of the Scale](https://galaticosstudio.itch.io/the-secret-of-the-scale)
